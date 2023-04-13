@@ -166,4 +166,43 @@ CORREO QUE ME DA GITHUB PARA UTILIZAR EN EL BASH
 67805028+josegarcia2030@users.noreply.github.com
 
 
+PARA TRAERME LOS CAMBIOS DEL GITHUB REMOTO A MI GIT LOCAL
+==================================================
+git pull origin main
+git pull origin main
+git pull origin main
+git pull origin main
+git pull origin main
+git pull origin main
+
+
+
+PARA TENER LOS CAMBIOS DEL GITHUB A MI GIT LOCAL SIN AGREGAR LOS CAMBIOS
+==========================================================================
+git fetch origin
+git fetch origin 
+git fetch origin
+git fetch origin
+
+
+
+PARA VER CAMBIOS DEL GITHUB
+====================================
+git checkout origin/main
+git checkout origin/main
+git checkout origin/main
+git checkout origin/main
+
+
+
+
+
+
+
+
+
+
+
+
+
 
