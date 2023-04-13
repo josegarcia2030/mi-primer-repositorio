@@ -1,10 +1,10 @@
 PARA CAMBIAR EL NOMBRE DE LA RAMA PRINCIPAL
 =============================================
-git config init.defaultBranch main
-git config init.defaultBranch main
-git config init.defaultBranch main
-git config init.defaultBranch main
-git config init.defaultBranch main
+git config --global init.defaultBranch main
+git config --global init.defaultBranch main
+git config --global init.defaultBranch main
+git config --global init.defaultBranch main
+git config --global init.defaultBranch main
 
 
 
