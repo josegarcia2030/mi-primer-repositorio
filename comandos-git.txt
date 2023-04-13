@@ -1,0 +1,167 @@
+PARA CAMBIAR EL NOMBRE DE LA RAMA PRINCIPAL
+=============================================
+git config init.defaultBranch main
+git config init.defaultBranch main
+git config init.defaultBranch main
+git config init.defaultBranch main
+git config init.defaultBranch main
+
+
+
+
+
+PARA CONFIGURAR A TU EDITOR DE TEXTO PREFERIDO
+=====================================
+git config --global core.editor "code --wait"
+git config --global core.editor "code --wait"
+git config --global core.editor "code --wait"
+git config --global core.editor "code --wait"
+
+
+PARA CAMBIAR EL MENSAJE DEL ULTIMO COMMIT
+====================================
+git commit --amend
+git commit --amend
+git commit --amend
+git commit --amend
+git commit --amend
+
+
+
+
+PARA DESHACER EL ULTIMO COMMIT, SIN ELIMINAR LOS CAMBIOS
+=================================
+git reset --soft HEAD~1
+git reset --soft HEAD~1
+git reset --soft HEAD~1
+git reset --soft HEAD~1
+git reset --soft HEAD~1
+git reset --soft HEAD~1
+
+
+
+PARA DESHACER EL ULTIMO COMMIT, ELIMINANDO LOS CAMBIOS
+=====================================================
+git reset --hard HEAD~1
+git reset --hard HEAD~1
+git reset --hard HEAD~1
+git reset --hard HEAD~1
+git reset --hard HEAD~1
+git reset --hard HEAD~1
+git reset --hard HEAD~1
+
+
+
+PARA CREAR RAMA Y CAMBIAR ASI LA RAMA NUEVA
+=============================================
+git checkout -b version-nueva
+git checkout -b version-nueva
+git checkout -b version-nueva
+git checkout -b version-nueva
+
+
+PARA CAMBIAR EL NOMBRE DE UNA RAMA(estando dentro de la rama)
+=============================================
+git branch -m nueva-version
+git branch -m nueva-version
+git branch -m nueva-version
+git branch -m nueva-version
+git branch -m nueva-version
+
+
+PARA CAMBIAR EL NOMBRE DE UNA RAMA(sin estar dentro de la rama)
+=========================================================
+git branch -m version-python version-py
+git branch -m version-python version-py
+git branch -m version-python version-py
+git branch -m version-python version-py
+git branch -m version-python version-py
+git branch -m version-python version-py
+
+
+ELIMINAR UNA RAMA(desde la rama principal)
+======================
+git branch -d version-py
+git branch -d version-py
+git branch -d version-py
+git branch -d version-py
+
+
+PARA VER EL COMMIT Y LA DIFERENCIA QUE SE HIZO
+===========================================
+git log -p
+git log -p
+git log -p
+git log -p
+git log -p
+git log -p
+git log -p
+git log -p
+git log -p
+
+
+PARA COMBINAR LAS RAMAS
+=========================
+git merge la-rama
+git merge la-rama
+git merge la-rama
+git merge la-rama
+git merge la-rama
+git merge la-rama
+git merge la-rama
+
+
+LOS CONFLICTOS
+=========================
+git merge --continue
+git merge --continue
+git merge --continue
+git merge --continue
+git merge --continue
+
+
+CLONAR UN REPOSITORIO
+==============================
+git clone https://github.com/josegarcia2030/mi-primer-repositorio.git
+git clone https://github.com/josegarcia2030/mi-primer-repositorio.git
+
+
+
+CREAR UN COMMIT EN UN CLONE REPOSITORY
+=======================================
+git remote
+git remote -v
+
+ENVIAR CAMBIOS A GITHUB
+=========================
+git push origin main
+git push origin main
+git push origin main
+git push origin main
+git push origin main
+git push origin main
+git push origin main
+
+
+TOKEN DE 7 DIAS 
+========================
+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
+
+
+INCORPORAR CAMBIOS DEL REPOSITORIO REMOTO
+===============================================
+git pull origin main
+git pull origin main
+git pull origin main
+git pull origin main
+git pull origin main
+git pull origin main
+
+
+GIT FETCH(permite ver si re realizaron cambios en el repositorio remoto)
+=========================================
+
+
+
+
+
