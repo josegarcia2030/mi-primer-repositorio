@@ -161,7 +161,9 @@ git pull origin main
 GIT FETCH(permite ver si re realizaron cambios en el repositorio remoto)
 =========================================
 
-
+CORREO QUE ME DA GITHUB PARA UTILIZAR EN EL BASH
+=========================================================
+67805028+josegarcia2030@users.noreply.github.com
 
 
 
